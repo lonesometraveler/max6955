@@ -1,0 +1,14 @@
+[package]
+authors = ["Kentaro Okuda <kentaro.okuda@gmail.com>"]
+categories = ["embedded", "hardware-support", "no-std"]
+description = "A platform agnostic driver to interface with MAX6955 LED Display Driver"
+documentation = "https://docs.rs/todo"
+keywords = ["embedded-hal-driver", "led driver",]
+license = "MIT"
+name = "max6955"
+repository = "https://github.com/lonesometraveler"
+version = "0.1.0"
+
+[dependencies]
+embedded-hal = "0.2.0"
+bit_field     = "0.10.0"
