@@ -8,7 +8,7 @@ keywords = ["embedded-hal-driver", "led-driver",]
 license = "MIT"
 name = "max6955"
 repository = "https://github.com/lonesometraveler/max6955"
-version = "0.1.1"
+version = "0.1.2"
 
 [dependencies]
 embedded-hal = "0.2.0"
