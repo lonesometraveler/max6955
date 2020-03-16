@@ -3,6 +3,7 @@ authors = ["Kentaro Okuda <kentaro.okuda@gmail.com>"]
 categories = ["embedded", "hardware-support", "no-std"]
 description = "A platform agnostic driver to interface with MAX6955 LED Display Driver"
 documentation = "https://docs.rs/max6955"
+readme = "README.md"
 keywords = ["embedded-hal-driver", "led-driver",]
 license = "MIT"
 name = "max6955"
