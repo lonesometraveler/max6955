@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/crates/v/max6955.svg)
 ![](https://docs.rs/max6955/badge.svg)
+![](https://github.com/lonesometraveler/max6955/workflows/build/badge.svg)
 
 A platform agnostic driver to interface with MAX6955 LED Display Driver
 
