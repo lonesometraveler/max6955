@@ -12,7 +12,7 @@ repository = "https://github.com/lonesometraveler/max6955"
 version = "0.1.3"
 
 [features]
-default = ["eh-a"]
+default = []
 eh-02 = ["embedded-hal-02"]
 eh-1 = ["embedded-hal-1"]
 eh-a = ["embedded-hal-async"]
